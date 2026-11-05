@@ -156,7 +156,7 @@ The server includes module and function docstrings. Pylint output should be chec
 
 ## Credits
 
-Implemented by **Hashir Hamza** as an IBM/Coursera course project.
+Implemented by **Hashir A** as an IBM/Coursera course project.
 
 The starter repository, frontend template, and lab-hosted NLP service were provided by IBM Skills Network.
 
